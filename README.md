@@ -1,6 +1,5 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Zaid bin Aamir</h1>
-<h3 align="center">A AI/ML ENGINEER</h3>
+<h3 align="center"> AI/ML ENGINEER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaid-bin-amir&label=Profile%20views&color=0e75b6&style=flat" alt="zaid-bin-amir" /> </p>
 
